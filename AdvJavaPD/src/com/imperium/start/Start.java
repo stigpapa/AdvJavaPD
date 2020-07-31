@@ -11,7 +11,7 @@ public class Start {
 
 		List<Stars>stars = new ArrayList<Stars>();
 		
-		
+		//Did this comment take?
 		
 		GetInfo.getInfo();
 			
